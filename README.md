@@ -1,9 +1,9 @@
 # SQL-Bootcamp
 
-**[SELECT Statments](https://github.com/nkuhta/Tkinter/blob/master/First%20GUI.ipynb)**  
-&ensp; Basic table SELECT statements to get table columns. 
-**[SELECT DISTINCT](https://github.com/nkuhta/Tkinter/blob/master/First%20GUI.ipynb)**  
-&ensp; SELECT DISTINCT statements to get unique table elements. 
+**[SELECT Statments](https://github.com/nkuhta/SQL-Bootcamp/blob/master/SELECT.sql)**  
+&ensp; Basic table SELECT statements to get table columns.  
+**[SELECT DISTINCT](https://github.com/nkuhta/SQL-Bootcamp/blob/master/SELECT_DISTINCT.sql)**  
+&ensp; SELECT DISTINCT statements to get unique table elements.  
 
 
 
