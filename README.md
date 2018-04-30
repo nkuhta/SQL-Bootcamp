@@ -1,4 +1,4 @@
-# SQL Statements Fundamentals 
+# SQL Statement Fundamentals 
 
 **[SELECT Statments](https://github.com/nkuhta/SQL-Bootcamp/blob/master/SELECT.sql)**  
 &ensp; Basic table SELECT statements to get table columns.  
