@@ -6,7 +6,8 @@
 &ensp; SELECT DISTINCT statements to get unique table elements.  
 **[SELECT WHERE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/SELECT_WHERE.sql)**  
 &ensp; Filter down SELECT table query more with WHERE logical operations (equal, greater/less than, AND/OR) are true. 
-
+**[COUNT]()**  
+&ensp; Count rows and distinct elements of a given table. 
 
 # References
 **The Ultimate SQL Bootcamp** - Udemy  
