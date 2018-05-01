@@ -8,7 +8,7 @@
 &ensp; Filter down SELECT table query more with WHERE logical operations (equal, greater/less than, AND/OR) are true.  
 **[COUNT](https://github.com/nkuhta/SQL-Bootcamp/blob/master/COUNT.sql)**  
 &ensp; Count rows and distinct elements of a given table.  
-**[LIMIT]()**  
+**[LIMIT](https://github.com/nkuhta/SQL-Bootcamp/blob/master/LIMIT.sql)**  
 &ensp;  Limit the number of output rows.  
 
 
