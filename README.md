@@ -14,8 +14,10 @@
 &ensp;  Sort the query result by column, or multiple columns.  
 **[BETWEEN](https://github.com/nkuhta/SQL-Bootcamp/blob/master/BETWEEN.sql)**  
 &ensp;  Get results between (or NOT) specified values or strings.
- 
-
+**[IN](https://github.com/nkuhta/SQL-Bootcamp/blob/master/IN.sql)**  
+&ensp;  Get results IN (or NOT IN) a list of specified values. 
+**[LIKE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/LIKE.sql)**  
+&ensp;  Get results between (or NOT) specified values or strings.
 
 # References
 **The Ultimate SQL Bootcamp** - Udemy  
