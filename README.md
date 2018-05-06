@@ -17,7 +17,9 @@
 **[IN](https://github.com/nkuhta/SQL-Bootcamp/blob/master/IN.sql)**  
 &ensp;  Get results IN (or NOT IN) a list of specified values.  
 **[LIKE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/LIKE.sql)**  
-&ensp;  Get results LIKE (or NOT) specified values.  Wildcard % symbols are useful here.  
+&ensp;  Get results LIKE (or NOT LIKE) specified values.  Wildcard (%,_) symbols are useful here.  
+**[Challenge Problems](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Challenge_01.sql)**  
+&ensp;  General challenge problems from the SQL statement section. 
 
 
 # References
