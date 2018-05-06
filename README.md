@@ -17,8 +17,9 @@
 **[IN](https://github.com/nkuhta/SQL-Bootcamp/blob/master/IN.sql)**  
 &ensp;  Get results IN (or NOT IN) a list of specified values.  
 **[LIKE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/LIKE.sql)**  
-&ensp;  Get results LIKE (or NOT) specified values or strings.
+&ensp;  Get results LIKE (or NOT) specified values.  Wildcard % symbols are useful here.  
+
 
 # References
-**The Ultimate SQL Bootcamp** - Udemy  
+**The Complete SQL Bootcamp** - Udemy  
 https://www.udemy.com/the-complete-sql-bootcamp
