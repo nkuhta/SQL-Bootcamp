@@ -10,6 +10,11 @@
 &ensp; Count rows and distinct elements of a given table.  
 **[LIMIT](https://github.com/nkuhta/SQL-Bootcamp/blob/master/LIMIT.sql)**  
 &ensp;  Limit the number of output rows.  
+**[ORDER BY](https://github.com/nkuhta/SQL-Bootcamp/blob/master/ORDER_BY.sql)**  
+&ensp;  Sort the query result by column, or multiple columns.  
+**[BETWEEN](https://github.com/nkuhta/SQL-Bootcamp/blob/master/BETWEEN.sql)**  
+&ensp;  Get results between (or NOT) specified values or strings.
+ 
 
 
 # References
