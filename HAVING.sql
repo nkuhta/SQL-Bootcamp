@@ -24,3 +24,16 @@ FROM film
 WHERE rating IN ('R','PG','G')
 GROUP BY rating
 HAVING AVG(rental_rate) <3;
+
+-- What customers have 40 transactions? 
+SELECT customer_id,COUNT(*)
+FROM payment
+GROUP BY customer_id
+HAVING COUNT(*) >= 40;
+
+-- What movie ratings have avg. rental duration > 5days
+SELECT rating,ROUND(AVG(rental_duration),2)
+FROM film
+GROUP BY rating
+HAVING ROUND(AVG(rental_duration),2) >5;
+
