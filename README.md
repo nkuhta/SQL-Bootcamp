@@ -18,12 +18,14 @@
 &ensp;  Get results IN (or NOT IN) a list of specified values.  
 **[LIKE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/LIKE.sql)**  
 &ensp;  Get results LIKE (or NOT LIKE) specified values.  Wildcard (%,_) symbols are useful here.  
+**[MIN, MAX, SUM, AVERAGE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/MIN_MAX_SUM_AVG.sql)**  
+&ensp;  Find average, min/max, and sum of payments in database.  
 **[Challenge Problems](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Challenge_01.sql)**  
 &ensp;  General challenge problems from the SQL statement section. 
 
 #  GROUP BY Statements 
-**[MIN, MAX, SUM, AVERAGE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/MIN_MAX_SUM_AVG.sql)**  
-&ensp;  Find average, min/max, and sum of payments in database.  
+**[GROUP BY](https://github.com/nkuhta/SQL-Bootcamp/blob/master/GROUP_BY.sql)**  
+&ensp;  Find count/sum/average of certain selection groups.   
 
 
 # References
