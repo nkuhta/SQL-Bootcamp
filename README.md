@@ -21,6 +21,10 @@
 **[Challenge Problems](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Challenge_01.sql)**  
 &ensp;  General challenge problems from the SQL statement section. 
 
+#  GROUP BY Statements 
+**[MIN, MAX, SUM, AVERAGE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/MIN_MAX_SUM_AVG.sql)**  
+&ensp;  Find average, min/max, and sum of payments in database.  
+
 
 # References
 **The Complete SQL Bootcamp** - Udemy  
