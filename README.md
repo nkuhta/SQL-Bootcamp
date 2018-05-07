@@ -26,6 +26,8 @@
 #  GROUP BY Statements 
 **[GROUP BY](https://github.com/nkuhta/SQL-Bootcamp/blob/master/GROUP_BY.sql)**  
 &ensp;  Find count/sum/average of certain selection groups.   
+**[HAVING](https://github.com/nkuhta/SQL-Bootcamp/blob/master/HAVING.sql)**  
+&ensp;  HAVING is a WHERE statement after the GROUP BY.     
 
 
 # References
