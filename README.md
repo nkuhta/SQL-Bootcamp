@@ -32,6 +32,9 @@
 &ensp;  First Assessment test until this point.  
 
 #  Joins 
+**[AS statements](https://github.com/nkuhta/SQL-Bootcamp/blob/master/AS.sql)**  
+&ensp;  AS statements.  
+
 
 # References
 **The Complete SQL Bootcamp** - Udemy  
