@@ -28,7 +28,10 @@
 &ensp;  Find count/sum/average of certain selection groups.   
 **[HAVING](https://github.com/nkuhta/SQL-Bootcamp/blob/master/HAVING.sql)**  
 &ensp;  HAVING is a WHERE statement after the GROUP BY.     
+**[Assessment #1](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Assessment_01.sql)**  
+&ensp;  First Assessment test until this point.  
 
+#  Joins 
 
 # References
 **The Complete SQL Bootcamp** - Udemy  

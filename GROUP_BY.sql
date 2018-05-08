@@ -54,8 +54,3 @@ GROUP BY customer_id
 ORDER BY SUM(amount) DESC
 LIMIT 5;
 
-
-
-
-
-
