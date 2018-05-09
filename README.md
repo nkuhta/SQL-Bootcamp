@@ -33,7 +33,7 @@
 
 #  Joins 
 **[AS statements](https://github.com/nkuhta/SQL-Bootcamp/blob/master/AS.sql)**  
-&ensp;  Using AS statements to assign column names.
+&ensp;  Using AS statements to assign column names.  
 **[Inner Joins](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Inner_Join.sql)**  
 &ensp;  Joining the intersection of two tables. 
   
