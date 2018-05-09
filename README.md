@@ -33,7 +33,8 @@
 
 #  Joins 
 **[AS statements](https://github.com/nkuhta/SQL-Bootcamp/blob/master/AS.sql)**  
-&ensp;  AS statements.  
+&ensp;  Using AS statements to assign column names.
+  
 
 
 # References
