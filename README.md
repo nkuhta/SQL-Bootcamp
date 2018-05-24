@@ -38,7 +38,7 @@
 &ensp;  Joining only selected columns between multiple tables that share INNER column values.  
 **[Outer Joins](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Outer_Join.sql)**  
 &ensp;  Left Outer Join example  
-**[Union]()**  
+**[Union](https://github.com/nkuhta/SQL-Bootcamp/blob/master/UNION.sql)**  
 &ensp;  Union Join, similar to concatinating the rows of columns.  
 
 
