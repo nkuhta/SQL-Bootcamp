@@ -48,7 +48,7 @@
 &ensp;  Aritmetric and basic math average functions.  
 **[String Functions](https://github.com/nkuhta/SQL-Bootcamp/blob/master/String_Functions.sql)**  
 &ensp;  Concatenation, Length, Upper/Lower.  
-**[Subquery]()**  
+**[Subquery](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Subquery.sql)**  
 &ensp;  Multiple SELECT statements using () inside another query.   
 
 
