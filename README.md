@@ -42,8 +42,8 @@
 &ensp;  Union Join, similar to concatinating the rows of columns.  
 
 #  Advanced SQL Commands 
-**[Timestamps and Extract]()**  
-&ensp;  
+**[Timestamps and Extract](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Timestamps_and_Extract.sql)**  
+&ensp;  Using extract() to pull timestamp information.  
 
 
 # References
