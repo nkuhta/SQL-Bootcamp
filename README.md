@@ -45,8 +45,8 @@
 **[Timestamps and Extract](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Timestamps_and_Extract.sql)**  
 &ensp;  Using extract() to pull timestamp information.  
 **[Math Functions](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Math_Functions.sql)**  
-&ensp;  Aritmetric and basic math average functions. 
-**[String Functions]()**  
+&ensp;  Aritmetric and basic math average functions.  
+**[String Functions](https://github.com/nkuhta/SQL-Bootcamp/blob/master/String_Functions.sql)**  
 &ensp;  Concatenation, Length, Upper/Lower.  
 
 
