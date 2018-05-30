@@ -51,7 +51,7 @@
 **[Subquery](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Subquery.sql)**  
 &ensp;  Multiple SELECT statements using () inside another query.   
 **[Self Join]()**  
-&ensp;  Join tables with itself .  
+&ensp;  Join tables with itself selecting from the table with two alias and WHERE, or with JOIN and ON.  
 
 
 
