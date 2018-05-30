@@ -50,7 +50,7 @@
 &ensp;  Concatenation, Length, Upper/Lower.  
 **[Subquery](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Subquery.sql)**  
 &ensp;  Multiple SELECT statements using () inside another query.   
-**[Self Join]()**  
+**[Self Join](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Self_Join.sql)**  
 &ensp;  Join tables with itself selecting from the table with two alias and WHERE, or with JOIN and ON.  
 
 
