@@ -41,6 +41,10 @@
 **[Union](https://github.com/nkuhta/SQL-Bootcamp/blob/master/UNION.sql)**  
 &ensp;  Union Join, similar to concatinating the rows of columns.  
 
+#  Advanced SQL Commands 
+**[Timestamps and Extract]()**  
+&ensp;  
+
 
 # References
 **The Complete SQL Bootcamp** - Udemy  
