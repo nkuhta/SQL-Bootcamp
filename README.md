@@ -44,7 +44,7 @@
 #  Advanced SQL Commands 
 **[Timestamps and Extract](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Timestamps_and_Extract.sql)**  
 &ensp;  Using extract() to pull timestamp information.  
-**[Math Functions]()**  
+**[Math Functions](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Math_Functions.sql)**  
 &ensp;  Aritmetric and basic math average functions. 
 
 
