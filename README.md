@@ -52,7 +52,8 @@
 &ensp;  Multiple SELECT statements using () inside another query.   
 **[Self Join](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Self_Join.sql)**  
 &ensp;  Join tables with itself selecting from the table with two alias and WHERE, or with JOIN and ON.  
-
+**[Assessment #2](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Assessment_02.sql)**  
+&ensp;  Second Assessment test, 15 practice query.  
 
 
 
