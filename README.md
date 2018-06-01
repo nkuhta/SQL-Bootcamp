@@ -58,7 +58,8 @@
 #  Create Databases and Tables 
 **[CREATE TABLE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Create_Table.sql)**  
 &ensp;  Creating tables and specify column data types.  
-
+**[INSERT]()**  
+&ensp;  Insert single and multiple rows for defined columns.  Insert data from another table. 
 
 # References
 **The Complete SQL Bootcamp** - Udemy  
