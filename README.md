@@ -56,7 +56,7 @@
 &ensp;  Second Assessment test, 15 practice query.  
 
 #  Create Databases and Tables 
-**[CREATE TABLE]()**  
+**[CREATE TABLE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Create_Table.sql)**  
 &ensp;  Creating tables and specify column data types.  
 
 
