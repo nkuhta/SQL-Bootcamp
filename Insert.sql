@@ -17,13 +17,13 @@
 -- WHERE condtion;
 
 -- link table 
--- CREATE TABLE link(
--- ID serial PRIMARY KEY,
--- url VARCHAR(250) NOT NULL,
--- name VARCHAR(150) NOT NULL,
--- description VARCHAR(255),
--- rel VARCHAR(50)
--- );
+CREATE TABLE link(
+ID serial PRIMARY KEY,
+url VARCHAR(250) NOT NULL,
+name VARCHAR(150) NOT NULL,
+description VARCHAR(255),
+rel VARCHAR(50)
+);
 
 --  insert a couple values into one row
 INSERT INTO link(url,name)
