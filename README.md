@@ -56,7 +56,8 @@
 &ensp;  Second Assessment test, 15 practice query.  
 
 #  Create Databases and Tables 
-
+**[CREATE TABLE]()**  
+&ensp;  Creating tables and specify column data types.  
 
 
 # References
