@@ -48,6 +48,6 @@ customer_id serial PRIMARY KEY,
 first_name VARCHAR(50) NOT NULL,
 last_name VARCHAR(50) NOT NULL,
 email VARCHAR(200) UNIQUE NOT NULL,
-sign_up_date timestamp,
+sign_up_date timestamp NOT NULL,
 min_on_site FLOAT NOT NULL
 );
