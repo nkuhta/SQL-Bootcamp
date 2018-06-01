@@ -55,6 +55,8 @@
 **[Assessment #2](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Assessment_02.sql)**  
 &ensp;  Second Assessment test, 15 practice query.  
 
+#  Create Databases and Tables 
+
 
 
 # References
