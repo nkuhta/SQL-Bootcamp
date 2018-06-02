@@ -74,6 +74,9 @@
 &ensp;  NULL vs. zero value.  NULL constraints require a column value to be defined.  
 **[UNIQUE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Unique.sql)**  
 &ensp;  UNIQUE sets constraint that requires a column's entries to all be unique.  
+**[Assessment #3](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Assessment_03.sql)**  
+&ensp;  Third Assessment test, creating and modifying school database teacher and students tables.  
+
 
 # References
 **The Complete SQL Bootcamp** - Udemy  
