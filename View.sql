@@ -1,15 +1,15 @@
 
 -- View
 
--- SELECT first_name,last_name,email,address,phone
--- FROM customer
--- JOIN address ON customer.address_id = address.address_id;
+SELECT first_name,last_name,email,address,phone
+FROM customer
+JOIN address ON customer.address_id = address.address_id;
 
 --  How to save above as a view?  
--- CREATE VIEW customer_info AS 
--- SELECT first_name,last_name,email,address,phone
--- FROM customer
--- JOIN address ON customer.address_id = address.address_id;
+CREATE VIEW customer_info AS 
+SELECT first_name,last_name,email,address,phone
+FROM customer
+JOIN address ON customer.address_id = address.address_id;
 
 -- --  So from now on it's much less work, makes the join a new view (table)
 SELECT *
