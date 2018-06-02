@@ -66,7 +66,7 @@
 &ensp;  DELETE entire tables, or WHERE certain conditions hold, RETURNING * shows deleted rows.  
 **[ALTER TABLE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Alter_Table.sql)**  
 &ensp;  Alter table with Add/Drop/Rename actions.  
-**[DROP TABLE]()**  
+**[DROP TABLE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Drop_Table.sql)**  
 &ensp; Drop Table (IF EXISTS).  
 
 
