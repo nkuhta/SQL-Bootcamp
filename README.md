@@ -62,7 +62,7 @@
 &ensp;  Insert single and multiple rows for defined columns.  Insert data from another table.  
 **[UPDATE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Update.sql)**  
 &ensp;  Update values with SET/WHERE conditions.  Use RETURNING to print changed row.  
-**[DELETE]()**  
+**[DELETE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Delete.sql)**  
 &ensp;  DELETE entire tables, or WHERE certain conditions hold, RETURNING * shows deleted rows.  
 
 
