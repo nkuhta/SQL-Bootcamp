@@ -40,6 +40,9 @@
 &ensp;  Left Outer Join example  
 **[Union](https://github.com/nkuhta/SQL-Bootcamp/blob/master/UNION.sql)**  
 &ensp;  Union Join, similar to concatinating the rows of columns.  
+**[View](https://github.com/nkuhta/SQL-Bootcamp/blob/master/View.sql)**  
+&ensp;  Create a new view name, often so you don't have to write complicated join statements, rename/drop view.  
+
 
 #  Advanced SQL Commands 
 **[Timestamps and Extract](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Timestamps_and_Extract.sql)**  
