@@ -60,6 +60,8 @@
 &ensp;  Creating tables and specify column data types.  
 **[INSERT](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Insert.sql)**  
 &ensp;  Insert single and multiple rows for defined columns.  Insert data from another table. 
+**[Unpdate]()**  
+&ensp;  Update values with SET/WHERE conditions.  Use RETURNING to print changed row. 
 
 # References
 **The Complete SQL Bootcamp** - Udemy  
