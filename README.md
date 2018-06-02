@@ -64,6 +64,8 @@
 &ensp;  Update values with SET/WHERE conditions.  Use RETURNING to print changed row.  
 **[DELETE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Delete.sql)**  
 &ensp;  DELETE entire tables, or WHERE certain conditions hold, RETURNING * shows deleted rows.  
+**[ALTER TABLE]()**  
+&ensp;  Alter table with Add/Drop/Rename actions. 
 
 
 
