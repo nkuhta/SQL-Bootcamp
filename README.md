@@ -70,9 +70,10 @@
 &ensp; Drop Table (IF EXISTS).  
 **[CHECK](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Check.sql)**  
 &ensp;  Boolean CHECK constraints for columns of tables.  ie.  age > 0.  
-**[NOT NULL](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Not_Null.sql)**  
 &ensp;  NULL vs. zero value.  NULL constraints require a column value to be defined.     
-
+**[NOT NULL](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Not_Null.sql)**  
+**[UNIQUE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Unique.sql)**  
+&ensp;  UNIQUE sets constraint that requires a column's entries to all be unique.  
 
 # References
 **The Complete SQL Bootcamp** - Udemy  
