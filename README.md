@@ -60,8 +60,11 @@
 &ensp;  Creating tables and specify column data types.  
 **[INSERT](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Insert.sql)**  
 &ensp;  Insert single and multiple rows for defined columns.  Insert data from another table.  
-**[Update](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Update.sql)**  
+**[UPDATE](https://github.com/nkuhta/SQL-Bootcamp/blob/master/Update.sql)**  
 &ensp;  Update values with SET/WHERE conditions.  Use RETURNING to print changed row.  
+**[DELETE]()**  
+&ensp;  DELETE entire tables, or WHERE certain conditions hold, RETURNING * shows deleted rows.  
+
 
 
 # References
