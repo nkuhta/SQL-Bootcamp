@@ -27,9 +27,3 @@ ALTER TABLE link RENAME to url_table;
 
 
 
-
-
-
-
-
-
